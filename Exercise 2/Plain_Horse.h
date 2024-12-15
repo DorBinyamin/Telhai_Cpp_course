@@ -4,7 +4,8 @@
 
 #ifndef EX3_PLAIN_HORSE_H
 #define EX3_PLAIN_HORSE_H
-#include <iostream>
+#include <iostream>Exercise 2
+
 
 //abstract class Plain_horse
 using namespace std;
